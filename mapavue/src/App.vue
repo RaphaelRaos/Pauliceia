@@ -2,7 +2,8 @@
   <div id="app">
     <div class="row">
        <h1 style="text-align: center;">Mapa Vue Google Map</h1>
-       <GoogleMap :latitude= -23.571676 :longitude= -46.74482 :title="'Teste'" />
+       <GoogleMap :latitude= -23.5504533 :longitude= -46.6360999 :title="'Teste'" />
+       
     </div>
 
   </div>
