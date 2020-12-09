@@ -4,7 +4,7 @@ import * as VueGoogleMaps from "vue2-google-maps";
 
 Vue.use(VueGoogleMaps,{
   load: {
-    key:"AIzaSyAjytxLTvc3aUlINwJG72r5soBdRrZ3Nzs",
+   /* inserir o intem key */ 
   }
 });
 
